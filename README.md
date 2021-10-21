@@ -1,6 +1,6 @@
 # PCB track measurement test for perchloride corrosion
 
-
+![PCB-NEW](https://github.com/silvajhb/PCBtrackcorrosion/blob/master/HARDWARE/DOCUMENTS/IMAGES/PCBNew.png)
 ![PCB-CUT](https://github.com/silvajhb/PCBtrackcorrosion/blob/master/HARDWARE/DOCUMENTS/IMAGES/pcb-cut.jpeg)
 ![PCB-CUT](https://github.com/silvajhb/PCBtrackcorrosion/blob/master/HARDWARE/DOCUMENTS/IMAGES/pcb-cut-2.jpeg)
 ![PHOTOGRAPHIC-PAPER](https://github.com/silvajhb/PCBtrackcorrosion/blob/master/HARDWARE/DOCUMENTS/IMAGES/CUT-PHOTOGRAPHIC-PAPER.jpeg)
